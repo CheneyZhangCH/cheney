@@ -65,5 +65,4 @@
 ### 开源项目 
 #### React组件库
 [https://github.com/CheneyZhangCH/zc-hui](https://github.com/CheneyZhangCH/zc-hui)
-技术栈： React、Hooks、TypeScript
-实现了轮播、弹窗、表单、级联选择、树形等组件。
+技术栈： React、Hooks、TypeScript、实现了轮播、弹窗、表单、级联选择、树形等组件。
